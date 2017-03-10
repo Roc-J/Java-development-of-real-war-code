@@ -6,6 +6,10 @@ package exception.train;
  *
  */
 public class Shoot {
+	/**
+	 * 
+	 * @throws NegativeArraySizeException
+	 */
 	static void pop() throws NegativeArraySizeException{
 		int[] arr = new int[-3];
 	}
