@@ -12,6 +12,7 @@ public class ListDemo {
 		list.add(a);
 		list.add(apple);
 		list.add(b);
+		list.add(c);
 		System.out.println(list.indexOf(b));
 		System.out.println(list.indexOf(apple));
 		System.out.println(list.lastIndexOf(apple));
